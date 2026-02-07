@@ -1,8 +1,8 @@
 I design and secure cloud platforms at scale, working at the intersection of Cloud Security, DevSecOps, and Infrastructure as Code. With 12+ years of experience, I help organizations build secure, resilient, and scalable systems without slowing down delivery.
 
-Frequent speaker at international conferences such as HashiTalks, SREDay, AWS Summits, DevOps Days, and local meetups, sharing insights on AppSec, Cloud Security, and modern application delivery. 📫Let’s connect on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
+Frequent speaker at international conferences such as HashiTalks, SREDay, AWS Summits, DevOps Days, and local meetups, sharing insights on AppSec, Cloud Security, and modern application delivery. Let’s connect on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
-## Most recent articles
+### Most recent articles
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
 - FEB 01, 2026 - [Security BSides 2026: Segurança, hacking e comunidade](https://amaurybsouza.medium.com/security-bsides-2026-seguran%C3%A7a-hacking-e-comunidade-d89ff54b687f)
 - SEP 30, 2025 - [HashiConf’25](https://amaurybsouza.medium.com/hashiconf25-1437c5fb239e)
@@ -15,7 +15,7 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 - FEB 02, 2025 - [AWS Translate: From english to any language in seconds](https://community.aws/content/2sV489BjzB0mLBLvRfLCbejRBnK/aws-translate-from-english-to-any-language-in-seconds)
 - JAN 19, 2025 - [5 Must-Have AI/ML Tools for AWS Certified AI Practitioner](https://community.aws/content/2ro2cXtVxEhhuzPptwZ0Lny5w2I/5-must-have-ai-ml-tools-for-aws-certified-ai-practitioner)
 
-## AWSome Cybersecurity News
+### AWSome Cybersecurity News
 - OCT 02, 2025 [HashiTalks'26](https://amauryborgessouza.substack.com/p/hashitalks26)
 - AUG 22, 2025 [Workshop de segurança a vista: Protegendo sua infraestrutura como código com Snyk, AWS e Terraform](https://amauryborgessouza.substack.com/p/workshop-de-seguranca-a-vista-protegendo)
   
