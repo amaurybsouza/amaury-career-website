@@ -2,7 +2,7 @@ I design and secure cloud platforms at scale, working at the intersection of Clo
 
 Frequent speaker at international conferences such as HashiTalks, SREDay, AWS Summits, DevOps Days, and local meetups, sharing insights on AppSec, Cloud Security, and modern application delivery. Let’s connect on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
-### Most recent articles
+## Most recent articles
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
 - FEB 01, 2026 - [Security BSides 2026: Segurança, hacking e comunidade](https://amaurybsouza.medium.com/security-bsides-2026-seguran%C3%A7a-hacking-e-comunidade-d89ff54b687f)
 - SEP 30, 2025 - [HashiConf’25](https://amaurybsouza.medium.com/hashiconf25-1437c5fb239e)
