@@ -15,7 +15,7 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 - FEB 02, 2025 - [AWS Translate: From english to any language in seconds](https://community.aws/content/2sV489BjzB0mLBLvRfLCbejRBnK/aws-translate-from-english-to-any-language-in-seconds)
 - JAN 19, 2025 - [5 Must-Have AI/ML Tools for AWS Certified AI Practitioner](https://community.aws/content/2ro2cXtVxEhhuzPptwZ0Lny5w2I/5-must-have-ai-ml-tools-for-aws-certified-ai-practitioner)
 
-## Open-Source Projects
+## Open-Source projects
 Check out my collection of [GitHub](https://github.com/amaurybsouza) projects showcasing Infrastructure as Code (IaC) principles, using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
 - Oct 26, 2022: [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet); (helps you with the most commonly and used commands).
 - Dec 10, 2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary); (devops glossary helps you with DevOps tools descriptions).
